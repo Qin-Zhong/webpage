@@ -1,0 +1,26 @@
+<html>
+  <head>
+  <title>Welcome to nginx test web server!</title>
+    <style type="text/css">
+      body {
+        background: black;
+        color: white;
+      }
+      div.container {
+        max-width: 500px;
+        margin: 100px auto;
+        border: 20px solid white;
+        padding: 10px;
+        text-align: center;
+      }
+      h4 {
+        text-transform: uppercase;
+      }
+    </style>
+  </head>
+  <body>
+  <h1> Welcome to nginx test web server!</h1>
+   <p> If you see this page, the second web app service for nginx container has been installed successfully </p>
+   
+  </body>
+</html>
